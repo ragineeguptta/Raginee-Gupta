@@ -1,4 +1,4 @@
-<img style=" width:100%; height:auto;" src="https://i.pinimg.com/originals/83/56/a5/8356a5debc978e028c38b3f6ae8d727e.jpg" alt="ragineeguptta" />
+<img style=" width:100%; height:auto;" src="https://wallpapercave.com/wp/wp1828925.png" alt="ragineeguptta" />
 <h1 align="center">Hi 👋, I'm Raginee Gupta</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
