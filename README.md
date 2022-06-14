@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Raginee Gupta</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
-<p align="center"> <img src="https://studio.code.org/shared/images/courses/logo_tall_dance-2019.gif" alt="ragineeguptta" /> </p>
+<p align="center" width="100%"> <img src="https://studio.code.org/shared/images/courses/logo_tall_dance-2019.gif" alt="ragineeguptta" /> </p>
 
 - 🔭 I’m currently working on **.Net Core MVC, PHP**
 
