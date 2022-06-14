@@ -1,4 +1,4 @@
-https://swall.teahub.io/photos/small/162-1621018_data-src.jpg
+[[!MasterHead](https://swall.teahub.io/photos/small/162-1621018_data-src.jpg)]
 <h1 align="center">Hi 👋, I'm Raginee Gupta</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
